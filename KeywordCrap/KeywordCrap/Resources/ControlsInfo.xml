@@ -1,0 +1,513 @@
+<uitips>
+
+<uitip>
+<control>txtHomePage</control>
+<text>Home Page</text>
+<message>The page which need to be shown by default when IE is started</message>
+<menu>Behaviour > Basic</menu>
+</uitip>
+
+<uitip>
+<control>txtNavigationSound</control>
+<text>Navigation Sound</text>
+<message>The sound that you hear when you click on a link</message>
+<menu>Behaviour > Basic</menu>
+</uitip>
+
+<uitip>
+<control>chkIEFullScreen</control>
+<text>Startup IE in Full Screen mode</text>
+<message>Open IE in full screen mode</message>
+<menu>Behaviour > Basic</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableHistorySet</control>
+<text>Disable changes to History Settings</text>
+<message>Disables any changes to IE History Settings</message>
+<menu>Behaviour > Basic</menu>
+</uitip>
+
+<uitip>
+<control>chkchkPreventTempFileSetting</control>
+<text>Prevent changes to Temporary File Settings</text>
+<message>Prevents any changes to IE Temporary File Settings</message>
+<menu>Behaviour > Basic</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventTempIEFiles</control>
+<text>Prevent any changes to Temporary Internet Files</text>
+<message>Prevents making any changes to Temporary Internet Files</message>
+<menu>Behaviour > Basic</menu>
+</uitip>
+
+<uitip>
+<control>btnApply</control>
+<text>Apply</text>
+<message>Apply the Changes made</message>
+<menu>Behaviour > Basic</menu>
+</uitip>
+
+<uitip>
+<control>chkAllowDownload</control>
+<text>Allow downloading</text>
+<message>Allow file download</message>
+<menu>Behaviour > Downloads</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableSelectDir</control>
+<text>Disable the option of selecting a download directory</text>
+<message>Prevent user from being ablt to select download folder by not displaying the Save As dialog when a file is downloaded</message>
+<menu>Behaviour > Downloads</menu>
+</uitip>
+
+<uitip>
+<control>txtDownloadFolder</control>
+<text>Save Downloaded files to</text>
+<message>Directory to save downloaded files</message>
+<menu>Behaviour > Downloads</menu>
+</uitip>
+
+<uitip>
+<control>chkNoitifyDownloadEnd</control>
+<text>Notify when file download is complete</text>
+<message>Notify me when file download is completed</message>
+<menu>Behaviour > Downloads</menu>
+</uitip>
+
+<uitip>
+<control>txtSavePagesTo</control>
+<text>Save web pages to</text>
+<message>Directory to save web pages and pictures</message>
+<menu>Behaviour > Downloads</menu>
+</uitip>
+
+<uitip>
+<control>btnSearchFiles</control>
+<text>Search for files or folders</text>
+<message></message>
+<menu>Behaviour > Downloads</menu>
+</uitip>
+
+<uitip>
+<control>chkRemoveAdvTab</control>
+<text>Remove Advanced Tab</text>
+<message></message>
+<menu>Internet Options > Advanced</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventAdvSettings</control>
+<text>Prevent Changes to Advanced Settings</text>
+<message></message>
+<menu>Internet Options > Advanced</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableResetWeb</control>
+<text>Disable the Reset Web Settings Button</text>
+<message></message>
+<menu>Internet Options > Advanced</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableMessageChange</control>
+<text>Disabe Messaging Changes</text>
+<message></message>
+<menu>Internet Options > Advanced</menu>
+</uitip>
+
+<uitip>
+<control>chkRemoveConnections</control>
+<text>Remove Connections Tab</text>
+<message></message>
+<menu>Internet Options > Connections</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableICW</control>
+<text>Disable Internet Connections Wizard</text>
+<message></message>
+<menu>Internet Options > Connections</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventConSetChange</control>
+<text>Prevent Changes to Connection Settings</text>
+<message></message>
+<menu>Internet Options > Connections</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventAutoConfigChange</control>
+<text>Prevent Changes to Automatic Configuration</text>
+<message></message>
+<menu>Internet Options > Connections</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableProxySet</control>
+<text>Disable Changes to Proxy Settings</text>
+<message></message>
+<menu>Internet Options > Connections</menu>
+</uitip>
+
+<uitip>
+<control>chkRemoveContent</control>
+<text>Remove Content Tab</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventCertOptChange</control>
+<text>Prevent Changes to Certificate Options</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkRemovePersonalTab</control>
+<text>Remove the Personal Tab from Certificate Manager</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventSecurCertChange</control>
+<text>Prevent Changes to Security Certificates</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventRatingChange</control>
+<text>Prevent Ratings Changes</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventCalOrContectChange</control>
+<text>Prevent Changes to Calendar and Contacts</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventAutoCoomplete</control>
+<text>Prevent AutoComplete for Forms</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventProfileChange</control>
+<text>Prevent Changes to Profiles</text>
+<message></message>
+<menu>Internet Options > Content</menu>
+</uitip>
+
+<uitip>
+<control>chkRemoveGeneral</control>
+<text>Remove General Tab</text>
+<message></message>
+<menu>Internet Options > General</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableHomePageSet</control>
+<text>Disable Change to Home Page Setting</text>
+<message></message>
+<menu>Internet Options > General</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventColorChange</control>
+<text>Prevent Color Changes</text>
+<message></message>
+<menu>Internet Options > General</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventFontChange</control>
+<text>Prevent Font Changes</text>
+<message></message>
+<menu>Internet Options > General</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventLanguageChange</control>
+<text>Prevent Language Changes</text>
+<message></message>
+<menu>Internet Options > General</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventAccessChange</control>
+<text>Prevent Accessibility Changes</text>
+<message></message>
+<menu>Internet Options > General</menu>
+</uitip>
+
+<uitip>
+<control>chkRemovePrograms</control>
+<text>Remove Programs Tab</text>
+<message></message>
+<menu>Internet Options > Programs</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventDefBrowserCheck</control>
+<text>Prevent Changes to Default Browser Check</text>
+<message></message>
+<menu>Internet Options > Programs</menu>
+</uitip>
+
+<uitip>
+<control>chkRemoveSecurity</control>
+<text>Remove Security Tab</text>
+<message></message>
+<menu>Internet Options > Security</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventAddSites</control>
+<text>Prevent Adding Sites to Any Zones</text>
+<message></message>
+<menu>Internet Options > Security</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventChangeSecLevel</control>
+<text>Prevent Changing Security Levels for the Internet Zone</text>
+<message></message>
+<menu>Internet Options > Security</menu>
+</uitip>
+
+<uitip>
+<control>chkPreventSavePass</control>
+<text>Prevent Prompt Me to Save Passwords from Being Displayed</text>
+<message></message>
+<menu>Internet Options > Security</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableWalletSetChange</control>
+<text>Disable Changes to Wallet Settings</text>
+<message></message>
+<menu>Internet Options > Security</menu>
+</uitip>
+
+<uitip>
+<control>txtWindowTitle</control>
+<text>Window Title</text>
+<message>Heading for your IE title bar</message>
+<menu>Appearance > Main Window</menu>
+</uitip>
+
+<uitip>
+<control>txtToolbarSkin</control>
+<text>Toolbar Skin</text>
+<message>Give the toolbar a background skin</message>
+<menu>Appearance > Main Window</menu>
+</uitip>
+
+<uitip>
+<control>txtSmallStaticLogo</control>
+<text>Small Static Logo</text>
+<message>Small static picture that is displayed in the upper right-hand corner when no activity is taking place</message>
+<menu>Appearance > Main Window</menu>
+</uitip>
+
+<uitip>
+<control>txtSmallSpinningLogo</control>
+<text>Small Spinning Logo</text>
+<message>Small spinning  picture that is displayed in the upper right-hand corner during long page loads</message>
+<menu>Appearance > Main Window</menu>
+</uitip>
+
+<uitip>
+<control>txtLargeStaticLogo</control>
+<text>Large Static Logo</text>
+<message>Large static picture that is displayed in the upper right-hand corner when no activity is taking place</message>
+<menu>Appearance > Main Window</menu>
+</uitip>
+
+<uitip>
+<control>txtLargeSpinningLogo</control>
+<text>Large Spinning Logo</text>
+<message>Large spinning  picture that is displayed in the upper right-hand corner during long page loads</message>
+<menu>Appearance > Main Window</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableFileNew</control>
+<text>Disable File > New Menu</text>
+<message>Disable File > New Menu command and CTRL + N shortcut key</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableFileOpen</control>
+<text>Disable File > Open Menu</text>
+<message>Disable 'File > Open' Menu command and CTRL + O and CTRL  + L shortcut keys</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableFileSave</control>
+<text>Disable File > Save Menu</text>
+<message>Disable 'File > Save' Menu command and 'File > Save As' commands</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableToolsIEOptions</control>
+<text>Disable Tools > Internet Options menu</text>
+<message>Disables 'Tools > Internet Options' menu</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkHideFavMenu</control>
+<text>Hide Favorites Menu</text>
+<message>Prevent access to Favorites menu, adding to favorites or Orgnizing the favorites</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableFullScreenView</control>
+<text>Disable Full Screen view option</text>
+<message>Prevent user from selecting 'View > Full Screen'. Disable F11 key</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableFindFiles</control>
+<text>Disable Find Files (Search) command</text>
+<message>Disable the Search Find Files Command. Disables the F3 key</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableContextMenu</control>
+<text>Disable Right Click Context Menu</text>
+<message>Disable Right Click Context Menu. Disables HTML context menu</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableIEClose</control>
+<text>Disable the Option of Closing Internet Explorer</text>
+<message>Prevent user from closing IE. Disables ALT + F4</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkDisableToolbarChange</control>
+<text>Remove the Option to Change or Hide Toolbars</text>
+<message>Remove the Option to Change or Hide Toolbars</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>chkAddFileNew</control>
+<text>Add File > New Window command to the Main Menu</text>
+<message>Changes 'File>New' to 'File>New Window'</message>
+<menu>Appearance > IE Menu</menu>
+</uitip>
+
+<uitip>
+<control>radDisablePopupBlock</control>
+<text>Disable Popup Blocker</text>
+<message>Allow popup windows to be displayed. No popups will be blocked</message>
+<menu>Popups > Properties</menu>
+</uitip>
+
+<uitip>
+<control>radNormalMode</control>
+<text>Only allow popup windows if they were generated based on your clicks</text>
+<message></message>
+<menu>Popups > Properties</menu>
+</uitip>
+
+<uitip>
+<control>radStrictMode</control>
+<text>Strict Mode (Block all popups unless your press Ctrl or Shift</text>
+<message>Do not allow popup windows to be displayed</message>
+<menu>Popups > Properties</menu>
+</uitip>
+
+<uitip>
+<control>chkDisablePopupLog</control>
+<text>Disable the Logging of Blocked Popups</text>
+<message></message>
+<menu>Popups > Properties</menu>
+</uitip>
+
+<uitip>
+<control>btnViewLog</control>
+<text>View Log</text>
+<message></message>
+<menu>Popups > Properties</menu>
+</uitip>
+
+<uitip>
+<control>chkFlashIcon</control>
+<text>Flash Icon</text>
+<message></message>
+<menu>Popups > Properties</menu>
+</uitip>
+
+<uitip>
+<control>chkPlaySound</control>
+<text>Play Sound</text>
+<message></message>
+<menu>Popups > Properties</menu>
+</uitip>
+
+<uitip>
+<control>dgvWhiteList</control>
+<text>White List</text>
+<message></message>
+<menu>Popups > Site List</menu>
+</uitip>
+
+<uitip>
+<control>dgvBlackList</control>
+<text>Black List</text>
+<message></message>
+<menu>Popups > Site List</menu>
+</uitip>
+
+<uitip>
+<control>txtChanges</control>
+<text>Changes in Settings</text>
+<message></message>
+<menu>Popups > Site List</menu>
+</uitip>
+
+<uitip>
+<control>cmdLinkFavorites</control>
+<text>Organize Favorites</text>
+<message>Displays Organize Favorites dialog of your Operting System</message>
+<menu>Tools and Plugins > Tools</menu>
+</uitip>
+
+<uitip>
+<control>cmdLinkSearchFiles</control>
+<text>Search for Files and Folders</text>
+<message>Displays Search for Files and Folders Dialog</message>
+<menu>Tools and Plugins > Tools</menu>
+</uitip>
+
+<uitip>
+<control>cmdLinkCloseIE</control>
+<text>Close All IE Windows</text>
+<message>Closes All Open Internet Explorer Windows</message>
+<menu>Tools and Plugins > Tools</menu>
+</uitip>
+</uitips>
